@@ -18,3 +18,10 @@ La pagina cuenta con:
 5. La pagina se encuentra toda en idioma ingles por lo que para hacer las consultas por pais o ciudad debera estar en ingles, respetando las mayusculas respectivamente.
 
 Por el momento NO cuenta con diseño responsive, solo se visualiza desde navegador.
+
+
+
+
+
+https://user-images.githubusercontent.com/97071902/220215366-c7c3cbb3-8697-4372-ba3d-edb9b21b0f2e.mp4
+
